@@ -27,7 +27,7 @@
         <dependency>
             <groupId>com.github.LiveProfiler</groupId>
             <artifactId>task-common</artifactId>
-            <version>40bfde908021afaa62e49fad4e497d2675fa13a4</version>
+            <version>acd23a85bda9ff5db99124d84e3fe25e09cc1618</version>
         </dependency>
         <!-- Testing -->
         <dependency>
